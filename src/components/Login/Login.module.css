@@ -1,0 +1,20 @@
+.title {
+    font-size: 2.0em;
+    font-weight: 500;
+    padding: 2% 0;
+    color: #006979;
+}
+
+.mainDiv {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.subDiv {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #006979;
+}

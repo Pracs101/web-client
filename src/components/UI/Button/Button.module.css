@@ -1,0 +1,22 @@
+.Button button {
+    border: none;
+    padding: 0;
+    background-color: #006979;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    font-weight: bold;
+    margin: auto;
+}
+
+@media (max-width: 900px) {
+    .Button button {
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 470px) {
+    .Button button {
+        font-size: 0.7em;
+    }
+}
